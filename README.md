@@ -3,4 +3,4 @@ This is my first Git Repository.
 <br>
 ............
 <br>
-Author-Richa kumari
+Author-Richa yadav
